@@ -1,0 +1,11 @@
+Run the following command to install the library using pip:
+
+> pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+Run the sample using the following command:
+
+> python quickstart.py
+
+It will prompt you to login to your google account.
+
+During the development phase you can continue past the unsafe application warning by clicking Advanced > Go to {Project Name} (unsafe).
