@@ -6,4 +6,6 @@ A snake game using python
 ![](fam2.gif)
 Save the turtle family game
 ## Day 3
-Python application to determine your google calendar flexiblity
+Python script to determine your google calendar flexiblity
+## Day 4
+Python script for scripture memory
