@@ -1,0 +1,5 @@
+Sweet Fire,1,2,
+Bob Evans,2,2,
+Red Robin,2,1,
+TGI Friday's,2,2,
+Pizza 150,2,4,
